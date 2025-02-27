@@ -1,4 +1,5 @@
 archivo3
+<<<<<<< HEAD
 
 
-// Corrección de lógica en Examen25.java
+// Version con correcion logica en examen, conflicto solucionado
